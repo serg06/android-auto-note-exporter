@@ -47,3 +47,5 @@ All you need is Python 3.7 and [AndroidViewClient](https://github.com/dtmilano/A
 ```
 python main.py
 ```
+
+Results are savedd to `backup.json` and `result.json`.
