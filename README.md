@@ -4,7 +4,7 @@
 
 Now I'm ready to switch to a better app, but this one has no "Export" option. I guess they never expected someone to write >1000 notes.
 
-That's the point of this project: I implemented export *for* him so that I could finally leave this awful app.
+That's the point of this project: **It will simulate your inputs in order to automatically extract your notes from this awful app.**
 
 ---
 
