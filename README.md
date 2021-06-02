@@ -1,9 +1,4 @@
-# android-auto-note-exporter
-Automate the extraction of my notes from an old Android notes app.
-
----
-
-What is this?
+# What is this?
 
 7 years ago, I had a really slow phone with a very poor battery, so when I needed a note-taking app, I downloaded the most light-weight one I could find: [com.onto.notepad](https://play.google.com/store/apps/details?id=com.onto.notepad&hl=en_CA&gl=US) by Anton Lashkov.
 
